@@ -4,6 +4,12 @@ by Gypsophilia
 
 # Canada
 
+## Nova Scotia 
+
+This is cheating, as we live in Nova Scotia. 
+
+### Halifax
+
 ## Québec
 
 * L'affaire est ketchup
@@ -16,14 +22,117 @@ by Gypsophilia
 * Atma --- indian food
 * Caffè Art Java --- coffee and brunch (Mont Royal location only!)
 
-### Québec
+### Québec City
 
-### Nova Scotia 
+## Ontario
 
-### Alberta
+## Manitoba
 
-#### Edmonton
+### Winnipeg
+
+* Parlour Coffee
+
+## Saskatchewan
+
+* Poached --- "Order the double espresso and treat like an Americano"
+
+## Alberta
+
+### Calgary
+
+* Mirchi
+
+### Edmonton
 
 * Dadeo --- po'boy sandwiches
 
-## USA
+## BC
+
+### Vancouver
+
+* Bistro sakana
+* Milanos 
+* Meat and Bread 
+* Revolver
+* Cafe medina
+* Alibi
+
+### Victoria
+
+* Mo:lé
+
+# USA
+
+## Vermont
+
+### Burlington
+
+* American Flatbreads --- pizza
+
+## Maine
+
+### Brownfield
+
+* Stone Mountain Arts Centre
+
+### Stonington
+
+* The Factory
+
+### Portland
+
+* Speckled Axe
+* Nosh 
+* Infinity 
+* Novari Res
+* Sprout
+
+## Massachusetts
+
+### Cambridge
+
+* Dwell Time --- coffee
+
+## New Jersey
+
+### Jersey City
+
+* The Warehouse JC
+* Bubby's Burritos
+
+## New York
+
+### Brooklyn
+
+* South Side coffee
+* Brooklyn Commune
+
+### Manhattan
+* Russian and Turkish Baths
+* Terrace Bagels
+* Ramen place
+* Yonah Schimmel Knishes
+
+## Pennsylvania
+
+### Philly
+
+* Jim's 
+* the market
+
+## Rhode Island
+
+### Providence
+
+* Mi Ranchito
+* Bakery (federal hill)
+
+## Connecticut
+
+### Middletown 
+
+* Krust
+
+### Collinsville 
+
+* Francesca's
