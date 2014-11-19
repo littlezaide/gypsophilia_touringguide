@@ -82,7 +82,7 @@ This is cheating, as we live in Nova Scotia.
 ### Portland
 
 * Speckled Axe
-* Nosh 
+* Nosh --- deli pushed to the edge
 * Infinity 
 * Novari Res
 * Sprout
@@ -97,7 +97,7 @@ This is cheating, as we live in Nova Scotia.
 
 ### Jersey City
 
-* The Warehouse JC
+* The Warehouse JC --- coffee
 * Bubby's Burritos
 
 ## New York
@@ -124,14 +124,14 @@ This is cheating, as we live in Nova Scotia.
 
 ### Providence
 
-* Mi Ranchito
+* Mi Ranchito --- an oasis of Guatemalan food
 * Bakery (federal hill)
 
 ## Connecticut
 
 ### Middletown 
 
-* Krust
+* Krust --- pizza
 
 ### Collinsville 
 
