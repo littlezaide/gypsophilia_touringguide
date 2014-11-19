@@ -1,6 +1,6 @@
-# a band's guide to eating well on the road
+# a band's guide to touring well
 
-by Gypsophilia
+by [Gypsophilia](http://www.gypsophilia.org)
 
 No guarantees any of these places will continue to exist by the time you read this, but we hope they do: they make travelling that much better. 
 
@@ -20,14 +20,15 @@ This is cheating, as we live in Nova Scotia.
 
 ### Montréal
 
+* Olive et Gourmando --- lunch and coffee
 * Nudo --- noodle house
 * Atma --- indian food
-* Caffè Art Java --- coffee and brunch (Mont Royal location only!)
+* Caffè Art Java --- coffee and brunch (rue Mont Royal location only!)
 
 ### Québec City
 
 * L'affaire est ketchup --- bistro
-* Soupe & Cie --- soup
+* Soupe & Cie --- sopu
 * Le Nektar --- coffee
 
 ## Ontario
