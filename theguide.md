@@ -2,6 +2,8 @@
 
 by Gypsophilia
 
+No guarantees any of these places will continue to exist by the time you read this, but we hope they do: they make travelling that much better. 
+
 # Canada
 
 ## Nova Scotia 
@@ -10,11 +12,15 @@ This is cheating, as we live in Nova Scotia.
 
 ### Halifax
 
+* Trident --- coffee
+* Steve-o-Reno's --- coffee
+* Two if By Sea --- coffee and novelty-sized croissants
+
 ## Québec
 
-* L'affaire est ketchup
-* Soupe & Cie 
-* 
+* L'affaire est ketchup --- bistro
+* Soupe & Cie --- soup
+* Le Nektar --- coffee
 
 ### Montréal
 
