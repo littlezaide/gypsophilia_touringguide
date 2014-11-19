@@ -20,10 +20,13 @@ This is cheating, as we live in Nova Scotia.
 
 ### Montréal
 
+* Café Saint-Henri Emery --- coffee
+* Café Myriad (I and II) --- coffee
 * Olive et Gourmando --- lunch and coffee
 * Nudo --- noodle house
 * Atma --- indian food
 * Caffè Art Java --- coffee and brunch (rue Mont Royal location only!)
+* DHC/ART --- gallery
 
 ### Québec City
 
