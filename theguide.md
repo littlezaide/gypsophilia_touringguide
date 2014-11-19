@@ -134,18 +134,19 @@ This is cheating, as we live in Nova Scotia.
 
 ## Pennsylvania
 
-### Philly
+### Philadelphia
 
 * Jim's Steaks South Street --- cheesesteaks
-* the market
+* Reading Terminal Market --- many food options
 * Briar Vintage --- vintage clothes
+* The Fabric Workshop and Museum --- gallery
 
 ## Rhode Island
 
 ### Providence
 
 * Mi Ranchito --- an oasis of Guatemalan food
-* Bakery (federal hill)
+* Seven Stars Bakery (Federal Hill)
 
 ## Connecticut
 
@@ -156,3 +157,7 @@ This is cheating, as we live in Nova Scotia.
 ### Collinsville 
 
 * Francesca's --- Italian
+
+## Washington DC
+
+* SUNdeVICH --- sandwiches
