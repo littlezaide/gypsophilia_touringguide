@@ -132,8 +132,9 @@ This is cheating, as we live in Nova Scotia.
 
 ### Philly
 
-* Jim's 
+* Jim's Steaks South Street --- cheesesteaks
 * the market
+* Briar Vintage --- vintage clothes
 
 ## Rhode Island
 
@@ -150,4 +151,4 @@ This is cheating, as we live in Nova Scotia.
 
 ### Collinsville 
 
-* Francesca's
+* Francesca's --- Italian
