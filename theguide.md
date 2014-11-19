@@ -18,10 +18,6 @@ This is cheating, as we live in Nova Scotia.
 
 ## Québec
 
-* L'affaire est ketchup --- bistro
-* Soupe & Cie --- soup
-* Le Nektar --- coffee
-
 ### Montréal
 
 * Nudo --- noodle house
@@ -30,7 +26,20 @@ This is cheating, as we live in Nova Scotia.
 
 ### Québec City
 
+* L'affaire est ketchup --- bistro
+* Soupe & Cie --- soup
+* Le Nektar --- coffee
+
 ## Ontario
+
+### Toronto
+
+* Manic Coffee
+* Caplansky's Deli
+* Gryfe's Bagel Bakery
+* United Dairy --- Jewish dairy resto
+* LCBO in North Toronto Station --- a palace devoted to booze
+* Green Beanery --- coffee and coffee supplies
 
 ## Manitoba
 
