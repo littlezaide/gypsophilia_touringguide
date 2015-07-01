@@ -27,6 +27,9 @@ This is cheating, as we live in Nova Scotia.
 * Atma --- indian food
 * Caffè Art Java --- coffee and brunch (rue Mont Royal location only!)
 * DHC/ART --- gallery
+* Pikolo --- coffee
+* Big in Japan --- Asian tapas
+* Dieu du Ciel! --- beautiful beers with pizza
 
 ### Québec City
 
@@ -50,10 +53,12 @@ This is cheating, as we live in Nova Scotia.
 ### Winnipeg
 
 * Parlour Coffee
+* Deer and Almond --- small plates
 
 ## Saskatchewan
 
-* Poached --- "Order the double espresso and treat like an Americano"
+* Riverdale Delicatessen & Market --- Italian sandwiches
+* Poached --- "Order the double espresso and treat like an American"
 
 ## Alberta
 
@@ -64,6 +69,8 @@ This is cheating, as we live in Nova Scotia.
 ### Edmonton
 
 * Dadeo --- po'boy sandwiches
+* Transcend --- coffee
+* Phobulous --- pho, obviously
 
 ## BC
 
@@ -75,10 +82,13 @@ This is cheating, as we live in Nova Scotia.
 * Revolver
 * Cafe medina
 * Alibi
+* Tojo --- sushi par excellence
 
 ### Victoria
 
 * Mo:lé
+* Meat & Bread
+* Discover Coffee
 
 # USA
 
@@ -131,6 +141,15 @@ This is cheating, as we live in Nova Scotia.
 * Terrace Bagels
 * Ramen place
 * Yonah Schimmel Knishes
+
+### Syracuse
+
+* Pastabilities
+
+### Rochester
+
+* Pour --- coffee
+* Joe Bean --- coffee
 
 ## Pennsylvania
 
