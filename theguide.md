@@ -180,3 +180,7 @@ This is cheating, as we live in Nova Scotia.
 ## Washington DC
 
 * SUNdeVICH --- sandwiches
+
+## Las Vegas NV
+
+* Lotus of Siam --- thai
