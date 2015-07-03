@@ -33,6 +33,14 @@ No guarantees any of these places will continue to exist by the time you read th
 * Pikolo --- coffee
 * Big in Japan --- Asian tapas
 * Dieu du Ciel! --- beautiful beers with pizza
+* Maison June Rose --- Chinese small plates
+* St Viateur --- bagels
+* Fairmount --- bagels
+* Green Panther --- falafel
+* Ma'tine --- brunch, coffee, patisserie
+* Joe Beef
+* Le Cheval blanc --- beer
+* Resto du village --- late night poutine
 
 ### Québec City
 
