@@ -52,7 +52,7 @@ No guarantees any of these places will continue to exist by the time you read th
 
 ### Toronto
 
-* Manic Coffee
+* Manic --- coffee
 * Caplansky's Deli
 * Gryfe's Bagel Bakery 
 * United Dairy --- Jewish dairy resto
@@ -82,18 +82,20 @@ No guarantees any of these places will continue to exist by the time you read th
 * Dadeo --- po'boy sandwiches
 * Transcend --- coffee
 * Phobulous --- pho, obviously
+* Tres Carnales --- Mexican food
 
 ## BC
 
 ### Vancouver
 
 * Bistro sakana
-* Milanos 
-* Meat and Bread 
+* Milanos --- coffee
+* Meat & Bread --- sandwiches
 * Revolver
 * Cafe medina
 * Alibi
 * Tojo --- sushi par excellence
+* Matchstick --- coffee
 
 ### Victoria
 
