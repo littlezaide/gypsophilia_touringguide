@@ -8,13 +8,16 @@ No guarantees any of these places will continue to exist by the time you read th
 
 ## Nova Scotia 
 
-This is cheating, as we live in Nova Scotia. 
+(This is cheating, as we live in Nova Scotia.)
 
 ### Halifax
 
 * Trident --- coffee
+* Java Blend --- coffee
 * Steve-o-Reno's --- coffee
 * Two if By Sea --- coffee and novelty-sized croissants
+* Edna --- bistro food
+* Lion & Bright --- small plates & coffee
 
 ## Québec
 
@@ -43,7 +46,7 @@ This is cheating, as we live in Nova Scotia.
 
 * Manic Coffee
 * Caplansky's Deli
-* Gryfe's Bagel Bakery
+* Gryfe's Bagel Bakery 
 * United Dairy --- Jewish dairy resto
 * LCBO in North Toronto Station --- a palace devoted to booze
 * Green Beanery --- coffee and coffee supplies
@@ -87,7 +90,7 @@ This is cheating, as we live in Nova Scotia.
 ### Victoria
 
 * Mo:lé
-* Meat & Bread
+* Meat & Bread --- sandwiches
 * Discover Coffee
 
 # USA
