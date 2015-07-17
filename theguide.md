@@ -19,6 +19,21 @@ No guarantees any of these places will continue to exist by the time you read th
 * Edna --- bistro food
 * Lion & Bright --- small plates & coffee
 
+## New Brunswick
+
+### Edmundston
+
+* Resto Bar le Deck --- ribs & beer
+
+### Moncton
+
+* Cafe Calactus --- vegetarian
+* Taj Mahal --- Indian 
+
+### Fredericton
+
+* Paradise Imports and Jonnie Java Roasters --- coffee (don't be fooled by the whimsical typefaces, they make good coffee)
+
 ## Québec
 
 ### Montréal
